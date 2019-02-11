@@ -1,2 +1,2 @@
 # iconvert-service
-iconvert service
+Service for iconvert app
